@@ -1,5 +1,6 @@
 # whatsapp-tracker
-A little online Tracker for the WhatsApp Web interface.
+
+A simple online Tracker for the WhatsApp Web interface.
 
 Hello there, this is my first python script, so bare with me if the code is a little bit messy. There are already some WhatsApp-Web python scripts out there but none of them worked fine for me so i made my own. 
 
