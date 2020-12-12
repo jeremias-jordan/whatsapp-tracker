@@ -2,7 +2,7 @@
 
 A simple online Tracker for the WhatsApp Web interface.
 
-Hello there, this is my first python script, so bear with me if the code is a little bit messy. There are already some WhatsApp-Web python scripts out there but none of them worked fine for me so i made my own. 
+Hello there, this is my first python script, so bear with me if the code is a little bit messy. There are already some WhatsApp-Web python scripts out there but none of them worked fine for me so i made my own. I guess this script just works when you have you have your online status hidden (or at least the profile you want to track).
 
 Before you can run this script, you have to install python3 and the selenium bindings for python. To install the selenium package with pip:
 
